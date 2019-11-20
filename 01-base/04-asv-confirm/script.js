@@ -79,7 +79,7 @@ function onMyButtonClicked(){
 var askName = "Please enter your name";
 var askGender = "Please enter your gender";
 var askCity = "Please enter your city";
-
+// variables that are not set with a value yet:
 var name;
 var gender;
 var city;
